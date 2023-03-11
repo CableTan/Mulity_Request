@@ -6,8 +6,8 @@ Minimize
        + 18 x10 + 10 x11 + 13 x12 + 15 x13 + 3 x14 + x15 + 17 x16 + 18 x17
        + 8 x18 + 11 x19 + 13 x20 + 16 x21 + 3 x22 + 8 x23 + 3 x24 + 19 x25
        + 12 x26 + 2 x27 + 20 x28 + 6 x29 + 14 x30 + 13 x31 + 9 x32 + 18 x33
-       + 9 x34 + 9 x35 + 9 x36 + 14 x37 + 17 x38 + 16 x39 + 5 maxLinkResidualBw
-       - 5 minLinkResidualBw
+       + 9 x34 + 9 x35 + 9 x36 + 14 x37 + 17 x38 + 16 x39 + 8 maxLinkResidualBw
+       - 8 minLinkResidualBw
 Subject To
  c1:   - x0 + f0fa0 <= 0
  c2:   - x0 + f0fb0 <= 0
