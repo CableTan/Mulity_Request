@@ -3,36 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="37a1b863-e114-43e9-b691-8c36a5f67ba9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/_generated.lp" beforeDir="false" afterPath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/_generated.lp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/Reward50001.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/Reward50001.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/Reward50001.svg" beforeDir="false" afterPath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/Reward50001.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/Score50001.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/Score50001.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/Score50001.svg" beforeDir="false" afterPath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/Score50001.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-14000.pth" beforeDir="false" afterPath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-14000.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-16000.pth" beforeDir="false" afterPath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-16000.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-18000.pth" beforeDir="false" afterPath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-18000.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-20000.pth" beforeDir="false" afterPath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-20000.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-22000.pth" beforeDir="false" afterPath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-22000.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-24000.pth" beforeDir="false" afterPath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-24000.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-26000.pth" beforeDir="false" afterPath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-26000.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-28000.pth" beforeDir="false" afterPath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-28000.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-30000.pth" beforeDir="false" afterPath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-30000.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-32000.pth" beforeDir="false" afterPath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-32000.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-34000.pth" beforeDir="false" afterPath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-34000.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-36000.pth" beforeDir="false" afterPath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-36000.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-38000.pth" beforeDir="false" afterPath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-38000.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-40000.pth" beforeDir="false" afterPath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-40000.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-42000.pth" beforeDir="false" afterPath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-42000.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-44000.pth" beforeDir="false" afterPath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-44000.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-46000.pth" beforeDir="false" afterPath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-46000.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-48000.pth" beforeDir="false" afterPath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-48000.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-50000.pth" beforeDir="false" afterPath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/percent_1/policy_net-50000.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DQN/Grid2D_dqn_train.py" beforeDir="false" afterPath="$PROJECT_DIR$/DQN/Grid2D_dqn_train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/DQN-LFR.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/DQN-LFR.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/ILP.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/ILP.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/KSP.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DQN/Graph_and_Net_Model/model/23031130_55/KSP.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Right_Rate.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Right_Rate.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Right_Rate.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Right_Rate.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Run.py" beforeDir="false" afterPath="$PROJECT_DIR$/Run.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Time.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Time.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Time.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Time.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/weight.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/weight.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/weight.svg" beforeDir="false" afterPath="$PROJECT_DIR$/weight.svg" afterDir="false" />
     </list>
@@ -68,12 +50,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Multi_Request" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.JSONPath" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\1小论文代码\Multi_Request_" />
       <recent name="D:\小论文代码\Multi_Request\Network" />
       <recent name="D:\小论文代码\Multi_Request\DQN" />
       <recent name="D:\小论文代码\Multi_Request\ILP" />
@@ -176,6 +159,11 @@
           <url>file://$PROJECT_DIR$/Request_Model/pickle_request.py</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Run.py</url>
+          <line>171</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
