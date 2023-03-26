@@ -7,8 +7,19 @@
 介绍一下虚拟网络映射算法，不少于2000字
 介绍一下 虚拟链路嵌入的资源分配 研究现状，不少于2000字
 
-
+1
 20230325
+0. DQN章节，资源分配（带宽、节点？时延、链路资源？）
+1. 基于ILP的资源分配
+2. 基于DQN的多元化资源分配
+3. 基于DQN/DDPG的资源分配/路由优化（拥塞控制）
+4. finish the chapter of DL,RL,DRL, start with SDN VN
+5. start the chapter DQN
+6. coding for mutli resource
+7. 1.2w+   Deep Learning开始未添加到毕业论文分组
+
+
+20230325——9700
 1.8000+
 2.coding
 3.发资料
