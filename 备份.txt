@@ -4,8 +4,10 @@ Online Virtual Links Resource Allocation in Software-Defined Networks
 评价指标：
        链路利用率、请求接受率、时延、链路成本
 
-介绍一下传统网络的架构、特点、优缺点、局限性，不少于2000字
-介绍一下网络在进行资源管理时遇到的问题和解决方案，不少于2000字
+20230327——三线并进
+1. SDN技术框架、网络模型、资源分配算法
+2. ILP或DQN章节及内容
+3. AC rate coding(node(0,1,2  or (1,0), request model(time), test(req), modify(run or take action))
 
 20230327
 1.finish code
