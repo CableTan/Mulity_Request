@@ -7,7 +7,9 @@ Online Virtual Links Resource Allocation in Software-Defined Networks
 介绍一下传统网络的架构、特点、优缺点、局限性，不少于2000字
 介绍一下网络在进行资源管理时遇到的问题和解决方案，不少于2000字
 
-
+20230327
+1.finish code
+2.paper chapter
 
 20230326——10300
 1. YSL 441...
