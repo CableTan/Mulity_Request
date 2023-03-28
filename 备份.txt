@@ -4,83 +4,20 @@ Online Virtual Links Resource Allocation in Software-Defined Networks
 评价指标：
        链路利用率、请求接受率、时延、链路成本
 
+20230328
+1. 12000  20.00
+2. 15000  22.00
+
+20230328
+1. 第二章节内容，第四第五章节分布，+1000字
+2. coding for AC
+
+
 20230327——三线并进
 1. SDN技术框架、网络模型、资源分配算法
 2. ILP或DQN章节及内容
 3. AC rate coding(node(0,1,2  or (1,0), request model(time), test(req), modify(run or take action))
 
-20230327
-1.finish code
-2.paper chapter
-
-20230326——10300
-1. YSL 441...
-2. 
-
-20230325
-0. DQN章节，资源分配（带宽、节点？时延、链路资源？）
-1. 基于ILP的资源分配
-2. 基于DQN的多元化资源分配
-3. 基于DQN/DDPG的资源分配/路由优化（拥塞控制）
-4. finish the chapter of DL,RL,DRL, start with SDN VN
-5. start the chapter DQN
-6. coding for mutli resource
-7. 1.2w+   Deep Learning开始未添加到毕业论文分组
-
-
-20230325——9700
-1.8000+
-2.coding
-3.发资料
-4.构思
-
-20230324
-1.7000+
-2.coding
-3.paper
-4.发资料
-
-20230323——3700+
-1.研究现状、主要内容、章节分布，5000+
-2.coding
-3.ICCCBDA收费等资料截图
-4.？  虚拟网络和深度强化学习概述 虚拟网络（NFV，NFV与SDN） 深度强化学习（深度、强化）
-
-
-20230323——3700+
-1.网络虚拟化技术、虚拟网络映射算法、虚拟链路嵌入
-2.基于DQN的虚拟网络资源分配算法研究
-3.基于DDPG的虚拟网络动态请求研究
-
-
-20230322
-1.5000+   *****
-2.coding  *****
-3.decide meetting
-
-
-20230321
-1.3000+
-2.coding
-3.decide metting
-
-
-20230320
-1.3000+，0325.15000+
-2.coding
-3.gifts for mm
-
-
-1.请求开始和结束时间上的判断方法
-2.heapdict用了它的哪些方法
-3.ILP和pickle存起来的request是怎么结合的
-
-
-
-20230319
-1. 时间节点 如何确定
-2. 会议流程
-3. ？
 
 20230319——5000字
 简历 iii
@@ -177,15 +114,86 @@ SDN网络中的拓扑聚合和资源分配 75
 6.3.2 虚拟链路嵌入的资源分配 ...... ...... 104
 6.3.3 多域网络中的拓扑聚合 ...... ...... 105
 
-通过www.DeepL.com/Translator（免费版）翻译
 
-通过www.DeepL.com/Translator（免费版）翻译
+20230327
+1.finish code
+2.paper chapter
+
+20230326——10300
+1. YSL 441...
+2. 
+
+20230325
+0. DQN章节，资源分配（带宽、节点？时延、链路资源？）
+1. 基于ILP的资源分配
+2. 基于DQN的多元化资源分配
+3. 基于DQN/DDPG的资源分配/路由优化（拥塞控制）
+4. finish the chapter of DL,RL,DRL, start with SDN VN
+5. start the chapter DQN
+6. coding for mutli resource
+7. 1.2w+   Deep Learning开始未添加到毕业论文分组
+
+
+20230325——9700
+1.8000+
+2.coding
+3.发资料
+4.构思
+
+20230324
+1.7000+
+2.coding
+3.paper
+4.发资料
+
+20230323——3700+
+1.研究现状、主要内容、章节分布，5000+
+2.coding
+3.ICCCBDA收费等资料截图
+4.？  虚拟网络和深度强化学习概述 虚拟网络（NFV，NFV与SDN） 深度强化学习（深度、强化）
+
+
+20230323——3700+
+1.网络虚拟化技术、虚拟网络映射算法、虚拟链路嵌入
+2.基于DQN的虚拟网络资源分配算法研究
+3.基于DDPG的虚拟网络动态请求研究
+
+
+20230322
+1.5000+   *****
+2.coding  *****
+3.decide meetting
+
+
+20230321
+1.3000+
+2.coding
+3.decide metting
+
+
+20230320
+1.3000+，0325.15000+
+2.coding
+3.gifts for mm
+
+
+1.请求开始和结束时间上的判断方法
+2.heapdict用了它的哪些方法
+3.ILP和pickle存起来的request是怎么结合的
+
+
+20230319
+1. 时间节点 如何确定
+2. 会议流程
+3. ？
+
 
 20230316
 qs1. the adopted DQN combined LFR (DQN-LFR) have better performance virtual link embedding than traditional method, such as traffic matrix...At the same time, DQNLFR provides a better solution for subsequent resource allocation (vs. ILP and KSP)
 qs2. Empirical accuracy:解释过了This also means that the routing policy provided to the network by DQN-LFR is better suited to the current network state (considering ILP as the optimal result)
 
 qs3. TABLE 3
+
 
 20230316z
 1. 应用场景
@@ -196,9 +204,11 @@ qs3. TABLE 3
 20230313
 1.resting
 
+
 20230312
 1.修复代码bug
 2.写大论文...
+
 
 20230311
 1. 继续完善代码（requests for dqn or ddpg or GNN or CNN）
