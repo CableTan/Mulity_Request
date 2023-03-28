@@ -4,9 +4,15 @@ Online Virtual Links Resource Allocation in Software-Defined Networks
 评价指标：
        链路利用率、请求接受率、时延、链路成本
 
+20230329
+1. finish——2.3.2   2.3.3  2.4.1   2.4.2
+2. 构思ILP、DQN章节以及实验部分
+3. coding
+
 20230328
 1. 12000  20.00
 2. 15000  22.00
+
 
 20230328
 1. 第二章节内容，第四第五章节分布，+1000字
