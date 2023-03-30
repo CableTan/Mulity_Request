@@ -4,8 +4,12 @@ Online Virtual Links Resource Allocation in Software-Defined Networks
 评价指标：
        链路利用率、请求接受率、时延、链路成本
 
+20230331
+1. run big paper
+2. video and coding
+3. 构思大论文（基于DQN-LFR的虚拟网络嵌入、资源分配）
 
-20230330
+20230330——16200
 1. finish——2.3.2   2.3.3  2.4.1   2.4.2
 2. 构思ILP、DQN章节以及实验部分
 3. coding
