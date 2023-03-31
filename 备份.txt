@@ -5,7 +5,15 @@ Online Virtual Links Resource Allocation in Software-Defined Networks
        链路利用率、请求接受率、时延、链路成本
 3）优化目标
       链路利用率最大、请求接受率最大
-	
+4）优化指标
+      成本、带宽、节点资源 、时延
+
+20230401
+1.ILP finish
+2.公式打上去
+3.图片处理一下
+4.开始DQN
+5.coding	
 
 20230331
 1. run big paper
