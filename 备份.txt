@@ -1,8 +1,11 @@
 Online Virtual Links Resource Allocation in Software-Defined Networks
-章节思路
+1）章节思路
        点对点、点对多点、资源分配、拥塞控制（基于链路利用率的）、路由优化、时延、在嵌入（静态VL和动态VL）
-评价指标：
+2）评价指标：
        链路利用率、请求接受率、时延、链路成本
+3）优化目标
+      链路利用率最大、请求接受率最大
+	
 
 20230331
 1. run big paper
