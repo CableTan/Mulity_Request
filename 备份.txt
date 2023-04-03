@@ -8,6 +8,10 @@ Online Virtual Links Resource Allocation in Software-Defined Networks
 4）优化指标
       成本、带宽、节点资源 、时延
 
+20230403
+1.help MeiMei
+2.paper
+
 20230401
 1.ILP finish
 2.公式打上去
