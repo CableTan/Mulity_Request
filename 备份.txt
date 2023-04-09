@@ -8,6 +8,23 @@ Online Virtual Links Resource Allocation in Software-Defined Networks
 4）优化指标
       成本、带宽、节点资源 、时延
 
+
+20230409
+1.finish ILP
+2.finish DQN 
+3.ensure the chapter
+
+20230406
+1.青岛大学——学科思政zhuyesh
+
+20230403
+1.英文翻译
+If you have lent a sympathetic ear to what I have told you about the heated argument of our philosopher in the stillness of that memorable night, you must have felt as disappointed as we did when he announced his peevish intention. You will remember that he had suddenly told us he wished to go; for, having been left in the lurch by his friend in the first place, and, in the second, having been bored rather than animated by the remarks addressed to him by his companion and ourselves when walking backwards and forwards on the hillside, he now apparently wanted to put an end to what appeared to him to be a useless discussion. 
+2.英文环节
+3.综合面试（抽提、其他问题
+4.结束
+
+
 20230403
 1.help MeiMei
 2.paper
