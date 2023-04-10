@@ -9,6 +9,10 @@ Online Virtual Links Resource Allocation in Software-Defined Networks
       成本、带宽、节点资源 、时延
 
 
+20230410
+1.26300
+2.27560
+
 20230409
 1.finish ILP
 2.finish DQN 
