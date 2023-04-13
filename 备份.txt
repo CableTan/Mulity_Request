@@ -8,6 +8,11 @@ Online Virtual Links Resource Allocation in Software-Defined Networks
 3）优化目标、指标
       链路利用率最大、请求接受率最大、成本、带宽、节点资源 、时延
 
+20230413
+1.28889-30000
+2.DQN RL等原理部分完成
+3. coding
+
 20230412
 1. 目录章节完成，包括第一章的三个点
 2. 适当的填充一些内容（伪代码、文字）29000
