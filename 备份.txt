@@ -8,8 +8,16 @@ Online Virtual Links Resource Allocation in Software-Defined Networks
 3）优化目标、指标
       链路利用率最大、请求接受率最大、成本、带宽、节点资源 、时延
 
-20230414
-1. 内容填充
+
+20230414——实验结果
+1. 
+
+20230414——31928，34000
+1. 奖励函数、网络模型
+2. 问题模型
+3. 构思结果
+4. 填充，coding
+5. 检查
 2. 结果分布
 3. 实验结果
 4. coding
