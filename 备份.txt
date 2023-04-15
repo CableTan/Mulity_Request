@@ -1,4 +1,5 @@
 文章思路：改进点DQNLFR，第三章介绍ILP
+王潇潇、曹浩彤
 宋雪、陈天、高桂超、曹浩彤、康灿平、熊昆
 Online Virtual Links Resource Allocation in Software-Defined Networks
 1）章节思路
@@ -10,7 +11,9 @@ Online Virtual Links Resource Allocation in Software-Defined Networks
 
 
 20230414——实验结果
-1. 
+1. 训练单步奖励、累积奖励（收敛）
+2. 整体章节
+
 
 20230414——31928，34000
 1. 奖励函数、网络模型
